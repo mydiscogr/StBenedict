@@ -3,7 +3,7 @@ The translation of the book of St. Benedict, written by Saint Gregory the Great,
 
 ## about the book
 
-This book is translated from italian version which is translated from latin version.
+This book is translated from the italian version which is translated from the latin version.
 Since I'm not native speaker, some words could sounds really odd to native speakers.
 So if you want to correct some phrases, you are welcome.
 
